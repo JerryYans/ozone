@@ -1,0 +1,17 @@
+/config
+.php~
+.buildpath
+.project
+.settings
+.pydevproject
+*.swpi
+*.conflict
+.idea/
+.buildpath
+.DS_Store
+tags
+lookupfiletags
+cscope.*
+*.orig
+*.swp
+*.rej
